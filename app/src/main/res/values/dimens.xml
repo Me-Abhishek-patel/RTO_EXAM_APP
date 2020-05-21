@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="q_text">16sp</dimen>
+    <dimen name="large_text">32sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+</resources>
