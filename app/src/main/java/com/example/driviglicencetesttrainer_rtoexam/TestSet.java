@@ -42,4 +42,67 @@ public class TestSet extends AppCompatActivity {
         startActivity(testSet4Intent);
 
     }
+
+    public void testSet5(View view) {
+        Intent testSet5Intent = new Intent(this, Test.class);
+        testSet5Intent.putExtra("set", 5);
+        startActivity(testSet5Intent);
+
+    }
+
+    public void testSet6(View view) {
+        Intent testSet6Intent = new Intent(this, Test.class);
+        testSet6Intent.putExtra("set", 6);
+        startActivity(testSet6Intent);
+
+    }
+
+    public void testSet7(View view) {
+        Intent testSet7Intent = new Intent(this, Test.class);
+        testSet7Intent.putExtra("set", 7);
+        startActivity(testSet7Intent);
+
+    }
+
+    public void testSet8(View view) {
+        Intent testSet8Intent = new Intent(this, Test.class);
+        testSet8Intent.putExtra("set", 8);
+        startActivity(testSet8Intent);
+
+    }
+
+    public void testSet9(View view) {
+        Intent testSet9Intent = new Intent(this, Test.class);
+        testSet9Intent.putExtra("set", 9);
+        startActivity(testSet9Intent);
+
+    }
+
+    public void testSet10(View view) {
+        Intent testSet10Intent = new Intent(this, Test.class);
+        testSet10Intent.putExtra("set", 10);
+        startActivity(testSet10Intent);
+
+    }
+
+    public void testSet11(View view) {
+        Intent testSet11Intent = new Intent(this, Test.class);
+        testSet11Intent.putExtra("set", 11);
+        startActivity(testSet11Intent);
+
+    }
+
+    public void testSet12(View view) {
+        Intent testSet12Intent = new Intent(this, Test.class);
+        testSet12Intent.putExtra("set", 12);
+        startActivity(testSet12Intent);
+
+    }
+
+    public void testSet13(View view) {
+        Intent testSet13Intent = new Intent(this, Test.class);
+        testSet13Intent.putExtra("set", 13);
+        startActivity(testSet13Intent);
+
+    }
 }
