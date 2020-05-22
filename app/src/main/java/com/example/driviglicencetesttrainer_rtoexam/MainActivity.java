@@ -29,4 +29,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(testSetIntent);
     }
 
+    public void signActive(View view) {
+        view.startAnimation(AnimationUtils.loadAnimation(this, R.anim.image_click));
+        Intent signIntent = new Intent(MainActivity.this, RoadSigns.class);
+        startActivity(signIntent);
+    }
+
 }
