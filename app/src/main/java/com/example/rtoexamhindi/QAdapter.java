@@ -1,4 +1,4 @@
-package com.example.driviglicencetesttrainer_rtoexam;
+package com.example.rtoexamhindi;
 
 import android.content.Context;
 import android.view.LayoutInflater;

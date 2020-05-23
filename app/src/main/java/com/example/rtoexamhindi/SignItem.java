@@ -1,4 +1,4 @@
-package com.example.driviglicencetesttrainer_rtoexam;
+package com.example.rtoexamhindi;
 
 public class SignItem {
     int mImageResource;

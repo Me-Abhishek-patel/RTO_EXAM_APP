@@ -64,6 +64,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:src="@drawable/container"
+        android:onClick="rateUs"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/container3"
         app:layout_constraintTop_toBottomOf="@+id/container2" />
@@ -106,6 +107,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toTopOf="@+id/textView4"
         app:layout_constraintEnd_toEndOf="@+id/container4"
+        android:onClick="rateUs"
         app:layout_constraintStart_toStartOf="@+id/container4"
         app:layout_constraintTop_toTopOf="@+id/container4"
         app:srcCompat="@drawable/analytics" />
@@ -154,8 +156,9 @@
         android:layout_width="wrap_content"
         android:layout_height="19dp"
         android:layout_marginBottom="32dp"
-        android:text="PERFORMANCE"
+        android:onClick="rateUs"
         android:textColor="@color/colorAccent"
+        android:text="RATE US"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/container4"
         app:layout_constraintEnd_toEndOf="@+id/container4"
@@ -165,6 +168,7 @@
     <ImageView
         android:id="@+id/imageView9"
         android:layout_width="match_parent"
+        android:onClick="quickTest"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         app:srcCompat="@drawable/containerbottom" />
@@ -176,6 +180,7 @@
         android:text="TAKE A QUICK TEST"
         android:textColor="@color/colorAccent"
         android:textSize="24sp"
+        android:onClick="quickTest"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/imageView9"
         app:layout_constraintEnd_toEndOf="@+id/imageView9"

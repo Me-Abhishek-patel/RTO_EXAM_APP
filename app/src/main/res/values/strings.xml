@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Driving Licence Test Trainer - RTO Exam</string>
+    <string name="app_name">RTO Exam Hindi: Driving Licence Test Hindi</string>
+
     <string name="learn">पूरा पढ़ें</string>
     <string name="total_questions">कुल प्रश्न: 15</string>
     <string name="time">समय: 7:30 मिनट</string>

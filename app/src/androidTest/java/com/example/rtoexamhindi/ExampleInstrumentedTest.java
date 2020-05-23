@@ -1,4 +1,4 @@
-package com.example.driviglicencetesttrainer_rtoexam;
+package com.example.rtoexamhindi;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.driviglicencetesttrainer_rtoexam", appContext.getPackageName());
+        assertEquals("com.example.RTOExamHindi", appContext.getPackageName());
     }
 }

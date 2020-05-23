@@ -1,4 +1,4 @@
-package com.example.driviglicencetesttrainer_rtoexam;
+package com.example.rtoexamhindi;
 
 /*Importing imp classes */
 
@@ -10,10 +10,9 @@ import android.os.CountDownTimer;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.ArrayList;
-import java.util.Set;
+
 
 public class Test extends AppCompatActivity {
 
@@ -338,6 +337,7 @@ public class Test extends AppCompatActivity {
         nextbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 next();
             }
         });

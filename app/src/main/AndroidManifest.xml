@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.driviglicencetesttrainer_rtoexam">
+    package="com.example.rtoexamhindi">
 
     <application
         android:allowBackup="true"
@@ -9,13 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".RoadSigns"></activity>
-        <activity android:name=".Scorecard" />
-        <activity android:name=".Test" />
-        <activity android:name=".TestSet" />
-        <activity android:name=".learn" />
-        <activity android:name=".LearnHere" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.rtoexamhindi.RoadSigns"></activity>
+        <activity android:name="com.example.rtoexamhindi.Scorecard" />
+        <activity android:name="com.example.rtoexamhindi.Test" />
+        <activity android:name="com.example.rtoexamhindi.TestSet" />
+        <activity android:name="com.example.rtoexamhindi.learn" />
+        <activity android:name="com.example.rtoexamhindi.LearnHere" />
+        <activity android:name="com.example.rtoexamhindi.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

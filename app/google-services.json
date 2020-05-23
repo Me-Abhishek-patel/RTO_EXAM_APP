@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617297617061",
+    "firebase_url": "https://rto-exam-hindi.firebaseio.com",
+    "project_id": "rto-exam-hindi",
+    "storage_bucket": "rto-exam-hindi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617297617061:android:891eb9d368a87f37786d4c",
+        "android_client_info": {
+          "package_name": "com.example.RTOExamHindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617297617061-9ggqclvr6uescdur9lkh5gk0ign2ha6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpzK9zY_hy53XPTXKeORIbmkgTaQscgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617297617061-9ggqclvr6uescdur9lkh5gk0ign2ha6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
